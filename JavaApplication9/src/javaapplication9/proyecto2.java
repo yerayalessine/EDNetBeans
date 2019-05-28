@@ -11,4 +11,5 @@ package javaapplication9;
  */
 public class proyecto2 {
     private int numero;
+    private String nombre;
 }
